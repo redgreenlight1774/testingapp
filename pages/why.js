@@ -1,4 +1,3 @@
-// pages/why.js
 import React, { useState } from 'react';
 import BasicOperationPopup from '../components/BasicOperationPopup';
 import styles from '../styles/Why.module.css';
